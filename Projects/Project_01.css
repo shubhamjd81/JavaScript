@@ -1,0 +1,33 @@
+.button{
+    width: 100px;
+    height: 100px;
+    margin: 20px;   
+    text-align: center;
+
+}
+
+.color{
+    display: flex;  
+    align-items: center;
+    justify-content: space-around;
+}
+
+#white{
+    background-color: aliceblue;
+}
+
+#gray{
+    background-color: gray;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+.color-switcher{
+    text-align: center;
+}

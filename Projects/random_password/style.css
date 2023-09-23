@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  background-color: lightgoldenrodyellow;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 27rem;
+  /* height: 15rem; */
+  background-color: lightblue;
+  padding: 10px;
+}
+
+#passBox {
+  /* padding: 90%; */
+  width: 100%;
+  font-size: 22px;
+  padding: 5px;
+  text-align: center;
+  border: none;
+  border-radius: 5px;
+}
+
+.paras {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+
+#noOfChar {
+  width: 70px;
+  height: 20px;
+  text-align: center;
+}
+
+#generate {
+  width: 100%;
+  margin-top: 15px;
+  font-size: 24px;
+  border: none;
+  border-radius: 5px;
+  /* background-color: darkblue; */
+  /* color: white; */
+}
