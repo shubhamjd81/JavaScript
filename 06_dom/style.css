@@ -1,6 +1,11 @@
-.black{
-    background-color: green;
-    color: black;
-    border-radius: 10px;
-    
+.black {
+  background-color: green;
+  color: black;
+  border-radius: 10px;
+}
+
+.div03 {
+  background-color: blue;
+  padding: 10px 20px;
+  border-radius: 10px;
 }
